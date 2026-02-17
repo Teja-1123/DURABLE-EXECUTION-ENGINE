@@ -1,0 +1,5 @@
+Prompt 1 (Claude):
+"Explain how a durable execution engine works using memoization and sequence IDs..."
+
+Prompt 2 (Claude):
+"Write a thread-safe SQLite persistence layer in Java that stores step results..."
